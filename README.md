@@ -6,3 +6,5 @@ Building projects
     - Downloaded titanic dataset from kaggle, imported into colab, explored the data
 - day 3
     - Clean dataset part 1
+- day 4
+    - refresher on python
