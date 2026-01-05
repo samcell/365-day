@@ -8,3 +8,6 @@ Building projects
     - Clean dataset part 1
 - day 4
     - refresher on python
+- day 5
+    - back to basics
+          - learn python from scratch
